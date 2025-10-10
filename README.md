@@ -6,7 +6,7 @@ Do the following to Complete this assignment:
 
 2. Enter your First Name: Victor
 
-3. Enter your favourite animal: Chicken, cuz I like to eat them
+3. Enter your favourite animal: bear
 
 4. Now click the green 'commit changes' button at the bottom.
 
